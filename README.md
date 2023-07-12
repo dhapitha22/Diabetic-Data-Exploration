@@ -1,6 +1,6 @@
 # Diabetic-Data-Exploration
 Diabetes Data Analysis
-1. Introduction
+# 1. Introduction
 
 Diabetes is a prevalent non-communicable disease globally. It is a chronic condition characterized by excessively high blood glucose levels, typically regulated by the hormone insulin, produced by the pancreas. Diabetes arises when issues occur with this hormone and its function in the human bloodstream.
 
